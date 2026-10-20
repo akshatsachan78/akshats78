@@ -2,7 +2,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Akshat%20S&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Akshat%20Sachan&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+Python+%7C+SQL;Exploring+Data+Visualization;Turning+Data+into+Insights" alt="Typing SVG" />
