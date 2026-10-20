@@ -53,7 +53,7 @@ Hi, I'm **Akshat**! Welcome to my GitHub profile.
 
 I'm working toward building practical data analytics projects.
 
-🔎 **[Explore My Repositories](https://github.com/akshats78?tab=repositories)**
+🔎 **[Explore My Repositories](https://github.com/akshatsachan78?tab=repositories)**
 
 *My projects will be showcased here as I build and publish them.*
 
